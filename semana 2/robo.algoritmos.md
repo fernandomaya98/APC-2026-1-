@@ -1,1 +1,0 @@
-O programa Octostudio é um aplicativo mobile que permite a programação rápida e intuitiva com comandos pré-programados, sendo necessário apenas realocados no ambiente de programação. Escolhendo 'atores' que são os objetos de programação e cenários, local onde vai ilustrar a animação feita.
